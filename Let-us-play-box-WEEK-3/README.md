@@ -533,7 +533,13 @@ WOW,有惊喜!我们可以使用root权限在没有密码的情况下运行node,
 
 这不是手到擒来吗!我们之前使用过python反弹shell,nodejs其实是一样的道理,只是编写shell的语言不同罢了~
 
-我们在网上搜索一下JS-shell
+这里推荐一个本地提权命令的网站,里面包含了多种通过linux二进制文件进行提权的方式
+
+https://GTFOBins.github.io
+
+感谢"我们一起来打靶"交流群的"**Nacl🔥**"师傅分享此网站
+
+***Ps:强烈推荐教程,群里的同学互相帮助,学习氛围非常好!***
 
 `sudo node -e "child_process.spawn('/bin/bash',{stdio: [0,1,2]})"`
 
@@ -590,6 +596,13 @@ apopse siopi mazeuoume oneira->今夜寂静，我们聚梦
 
 在问题中学习,在解决中成长.这才是最正确的网络安全学习之道!
 
+## 附录
+
+linux提权网站:		https://GTFOBins.github.io
+
 ## 致谢
 
 **\~小杨🐑\~**
+
+**~Nacl🔥~**
+
