@@ -10,6 +10,12 @@
 
 **使用工具**:fping、ffuf
 
+**强烈推荐教程**:[我们一起来打靶](https://pqy.h5.xeknow.com/s/2svbaU)
+
+![推广](https://tva1.sinaimg.cn/large/008i3skNly1gum9cnlujvj30ku112ad0.jpg)
+
+
+
 ## 主机发现
 
 还记得ping扫描吗,它只能对单个地址发送ping请求,并不能做到网段的扫描,我们之前结合shell脚本进行网段的扫描
