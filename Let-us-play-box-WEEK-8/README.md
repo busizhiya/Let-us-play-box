@@ -8,7 +8,9 @@
 
 **攻击机**:Kali Linux
 
-**使用工具**:
+**强烈推荐教程**:[我们一起来打靶](https://pqy.h5.xeknow.com/s/2svbaU)
+
+![推广](https://tva1.sinaimg.cn/large/008i3skNly1gum9cnlujvj30ku112ad0.jpg)
 
 ## 简介
 
