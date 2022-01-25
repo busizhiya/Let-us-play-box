@@ -10,6 +10,10 @@
 
 **使用工具**:nmap、gobuster、john
 
+**强烈推荐教程**:https://pqy.h5.xeknow.com/s/2svbaU
+
+![推广](https://tva1.sinaimg.cn/large/008i3skNly1gyov699rnlj30ku112goe.jpg)
+
 ## 主机发现
 
 `sudo arp-scan -l --interface=eth0`
