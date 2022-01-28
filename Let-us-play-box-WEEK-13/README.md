@@ -1,4 +1,4 @@
-# 第13周
+# WEEK 13
 
 **靶机名称**:vulnhub------**DOUBLETROUBLE: 1**
 
@@ -9,10 +9,6 @@
 **攻击机**:Kali Linux
 
 **使用工具**:[dirtycow](https://github.com/FireFart/dirtycow)
-
-**强烈推荐教程**:https://pqy.h5.xeknow.com/s/2svbaU
-
-![推广](https://tva1.sinaimg.cn/large/008i3skNly1gyov699rnlj30ku112goe.jpg)
 
 # 简介
 
