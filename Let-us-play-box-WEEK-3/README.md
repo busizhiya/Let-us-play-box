@@ -26,7 +26,7 @@
 
 锵锵~这次我们再来学习一个新的内网ARP主机发现工具,`netdiscover`
 
-它的用法很简单,使用`sodu netdiscover -r IP/CIDR`即可进行一个网段的主机发现
+它的用法很简单,使用`sudo netdiscover -r IP/CIDR`即可进行一个网段的主机发现
 
 我们使用`sudo netdiscover -r 10.0.0.0/16`
 

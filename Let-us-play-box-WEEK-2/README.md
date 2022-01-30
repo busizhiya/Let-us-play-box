@@ -8,7 +8,7 @@
 
 **攻击机**:Kali Linux
 
-**所用工具**:`arping`、`Burp Suite`
+**所用工具**:arping、Burp Suite
 
 **相关文件**:`magic_character.txt`
 

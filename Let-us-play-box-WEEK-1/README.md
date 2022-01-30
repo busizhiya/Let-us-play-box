@@ -332,7 +332,7 @@ proxychains curl -XPOST 'http://172.17.0.2:9200/twitter/user/yren' -d '{ "name" 
 
 我们可以使用hashcat进行破解~
 
-`ashcat -m 0 -a 3 3f8184a7343664553fcb5337a3138814 ?d?d?d?d?l?l?l?l --force`
+`hashcat -m 0 -a 3 3f8184a7343664553fcb5337a3138814 ?d?d?d?d?l?l?l?l --force`
 
 获取到用户名与密码后,我们来看看有什么用吧~
 
